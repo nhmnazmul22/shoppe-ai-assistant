@@ -1,0 +1,14 @@
+<svg width="120" height="32" viewBox="0 0 120 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shopee bag icon -->
+  <rect x="0" y="8" width="24" height="20" rx="2" fill="#EE4D2D"/>
+  <path d="M4 8C4 6.89543 4.89543 6 6 6H18C19.1046 6 20 6.89543 20 8V10H4V8Z" fill="#EE4D2D"/>
+  <circle cx="8" cy="4" r="2" stroke="#EE4D2D" stroke-width="2" fill="none"/>
+  <circle cx="16" cy="4" r="2" stroke="#EE4D2D" stroke-width="2" fill="none"/>
+  
+  <!-- Letter S in the bag -->
+  <path d="M8 14C8 13.4477 8.44772 13 9 13H11C12.1046 13 13 13.8954 13 15C13 16.1046 12.1046 17 11 17H10C9.44772 17 9 17.4477 9 18C9 18.5523 9.44772 19 10 19H12C12.5523 19 13 19.4477 13 20C13 20.5523 12.5523 21 12 21H10C8.89543 21 8 20.1046 8 19C8 17.8954 8.89543 17 10 17H11C11.5523 17 12 16.5523 12 16C12 15.4477 11.5523 15 11 15H9C8.44772 15 8 14.5523 8 14Z" fill="white"/>
+  
+  <!-- Shopee text -->
+  <text x="30" y="22" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#EE4D2D">Shopee</text>
+</svg>
+
