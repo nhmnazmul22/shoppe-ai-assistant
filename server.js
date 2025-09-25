@@ -28,3 +28,4 @@ app.prepare().then(() => {
     console.log(`> Ready on http://${hostname}:${port}`)
   })
 })
+// http://0.0.0.0:5000
